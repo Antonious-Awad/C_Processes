@@ -1,0 +1,15 @@
+{
+  "ALX Snippet": {
+    "prefix": "alx",
+    "body": [
+      "#include \"main.h\"",
+      "/**",
+      " * func - desc",
+      " * @n: desc",
+      " */",
+      "",
+      ""
+    ],
+    "description": "ALX Snippet"
+  }
+}
